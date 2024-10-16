@@ -1,0 +1,27 @@
+name: projetocrud
+description: "A new Flutter project."
+
+publish_to: 'none' # Remova esta linha se planeja publicar no pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.5.1
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.8
+  firebase_core: ^3.6.0
+  cloud_firestore: ^5.3.0 # Adicione esta linha para o Firestore
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+  - assets/livro.png

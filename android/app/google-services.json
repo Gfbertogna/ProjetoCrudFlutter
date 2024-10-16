@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1030310351612",
+    "project_id": "projetocrud-3d576",
+    "storage_bucket": "projetocrud-3d576.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1030310351612:android:5f33f5de6f8c4a2ff67d79",
+        "android_client_info": {
+          "package_name": "firebase_oprtions.dart"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqF9ai8BdeeDf-mwaPETOFKByrjIzvy6E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
